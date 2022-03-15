@@ -1,0 +1,7 @@
+.tooltip.in {
+    opacity: 1 !important;
+  }
+
+.range-slider__tooltip__caret{
+    opacity: 99;
+}
